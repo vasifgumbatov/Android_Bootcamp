@@ -5,11 +5,12 @@ plugins {
 
 android {
     namespace = "com.example.androidbootcamp"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.androidbootcamp"
         minSdk = 23
+        //noinspection OldTargetApi
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"

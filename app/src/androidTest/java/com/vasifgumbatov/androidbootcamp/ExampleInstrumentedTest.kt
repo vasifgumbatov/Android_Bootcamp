@@ -1,4 +1,4 @@
-package com.example.androidbootcamp
+package com.vasifgumbatov.androidbootcamp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

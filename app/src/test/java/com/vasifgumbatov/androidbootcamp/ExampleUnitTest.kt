@@ -1,4 +1,4 @@
-package com.example.androidbootcamp
+package com.vasifgumbatov.androidbootcamp
 
 import org.junit.Test
 
