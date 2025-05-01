@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Android Bootcamp</string>
+    <string name="track_your_comfort_food_here">Track your Comfort \nFood here</string>
+    <string name="here_you_can_find_a_chef_or_dish_for_every_taste_and_color_enjoy">Here You Can find a chef or dish for every taste and color. Enjoy!</string>
+    <string name="next">Next</string>
 </resources>

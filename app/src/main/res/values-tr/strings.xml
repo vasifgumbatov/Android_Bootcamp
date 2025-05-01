@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Android Bootcamp</string>
+    <string name="track_your_comfort_food_here">Konforunuzu takip edin \nYiyecek burada</string>
+    <string name="here_you_can_find_a_chef_or_dish_for_every_taste_and_color_enjoy">Burada her zevke ve renge uygun bir şef veya yemek bulabilirsiniz. Afiyet olsun!</string>
+    <string name="next">Next</string>
+</resources>

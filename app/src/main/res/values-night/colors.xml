@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
-
     //statusbarcolor
-    <color name="status_bar_color">#FFFFFF</color>
+    <color name="status_bar_color">#000000</color>
 
     //button color
     <color name="button_color">#E91E63</color>
+
 </resources>
