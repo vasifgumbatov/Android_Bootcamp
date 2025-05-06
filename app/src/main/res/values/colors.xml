@@ -2,6 +2,11 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="ana_sayfa_color">#2196F3</color>
+    <color name="sayfa_a_color">#FF5722</color>
+    <color name="sayfa_b_color">#000000</color>
+    <color name="sayfa_x_color">#6C6D6D</color>
+    <color name="sayfa_y_color">#FFC107</color>
 
     //statusbarcolor
     <color name="status_bar_color">#FFFFFF</color>
