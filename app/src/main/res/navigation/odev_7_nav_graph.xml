@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/odev_7_nav_graph"
+    app:startDestination="@id/mainFragment">
+
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="com.vasifgumbatov.androidbootcamp.odev_7.ui.fragment.MainFragment"
+        tools:layout="@layout/fragment_main"
+        android:label="MainFragment" >
+        <action
+            android:id="@+id/action_mainFragment_to_detailFragment"
+            app:destination="@id/detailFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_registrationFragment"
+            app:destination="@id/registrationFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/registrationFragment"
+        android:name="com.vasifgumbatov.androidbootcamp.odev_7.ui.fragment.RegistrationFragment"
+        tools:layout="@layout/fragment_registration"
+        android:label="RegistrationFragment" />
+    <fragment
+        android:id="@+id/detailFragment"
+        android:name="com.vasifgumbatov.androidbootcamp.odev_6.ui.fragment.DetailFragment"
+        tools:layout="@layout/fragment_detailtodo"
+        android:label="DetailFragment" />
+</navigation>
